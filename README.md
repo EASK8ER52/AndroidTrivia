@@ -1,4 +1,4 @@
-# <Android Trivia>
+# AndroidTrivia
 
 An Android application that allows you to play a trivia game.
 
