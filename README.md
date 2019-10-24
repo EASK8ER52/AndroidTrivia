@@ -2,9 +2,9 @@
 
 An Android application that allows you to play a trivia game.
 
-Submitted by: <Ernesto_Acosta>
+Submitted by: Ernesto Acosta
 
-Time spent: <4 hours>
+Time spent: 4 hours
 
 ## User Stories
 
