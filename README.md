@@ -1,8 +1,8 @@
-# <name of app>
+# <AndroidTrivia>
 
 An Android application that allows you to play a trivia game.
 
-Submitted by: <Ernesto Acosta>
+Submitted by: <Ernesto_Acosta>
 
 Time spent: <4 hours>
 
@@ -33,7 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+On the fourth last video after I added the classpath line on the AndroidTrivia Gradle Script,
+the program refuses to work in that it won't sync.
 
 ## License
 
